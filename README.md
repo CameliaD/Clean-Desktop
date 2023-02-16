@@ -15,6 +15,6 @@ This desktop cleaner is for you if:
 
 ## Get Started
 
-1. Download the files from this repository. If you download them as zip file, you need first to unlock the archive before using the script. Check [Read before unzipping.pdf](./Read%before%unzipping.pdf) to see how.
+1. Download the files from this repository. If you download them as zip file, you need first to unlock the archive before using the script. Check [Read before unzipping.pdf](./Read%20before%20unzipping.pdf) to see how.
 2. Check the instruction file, [How to run Clean Desktop.pdf](./How%20to%20run%20Clean%20Desktop.pdf), for step-by-step guidance on how to use the script.
 3. Enjoy your newly organized desktop and the time you saved!
