@@ -13,3 +13,8 @@ This desktop cleaner is for you if:
 
 [[INSERT VIDEO EMBED CODE HERE]](https://user-images.githubusercontent.com/32555201/219354554-7d98155f-3570-4cbd-9828-4ee01c7c4607.mp4)
 
+## Get Started
+
+1. Download the files from this repository.
+2. Check the instruction file, [How to run Clean Desktop.pdf](./How%20to%20run%20Clean%20Desktop.pdf), for step-by-step guidance on how to use the script.
+3. Enjoy your newly organized desktop and the time you saved!
