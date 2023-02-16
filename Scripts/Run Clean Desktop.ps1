@@ -1,15 +1,3 @@
-﻿<#
--> Running this script with admin rights
-#><#
-If (-NOT ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator"))
-{   
-    $arguments = "& '" + $myinvocation.mycommand.definition + "'"
-    Start-Process powershell -Verb runAs -ArgumentList $arguments
-    Break
-}
-#>
-
-
 <#
 -> Finding the location of input files AllowedExtensionsOnDesktop.txt, DestinationPathOfFiles.txt on this PC
 -> Reading the content of input files AllowedExtensionsOnDesktop.txt, DestinationPathOfFiles.txt
