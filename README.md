@@ -1,3 +1,4 @@
 # CleanDesktop
  Automate decluttering your desktop with a user friendly PowerShell script with GUI
-![image](https://user-images.githubusercontent.com/32555201/219320204-dbf9974f-e818-4c37-925b-4030b07df375.png)
+ 
+![image](https://user-images.githubusercontent.com/32555201/219320464-525c8a7a-df68-4b66-883e-69eef946874d.png)
