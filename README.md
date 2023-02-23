@@ -1,7 +1,7 @@
 # Clean Desktop
 Automate decluttering your desktop with a user friendly PowerShell script with GUI.
 
-Sick of cluttered desktops? With just one click, you can clean your cluttered desktop. Check out the video below to see how you can automate the desktop cleaning routine and have a productive day.
+Sick of cluttered desktops? With just one click, you can clean your cluttered desktop. 
 
 ## Is this tool for you?
 
