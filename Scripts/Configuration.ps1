@@ -1,4 +1,17 @@
 <#
+.SYNOPSIS
+    Moves files from the Desktop to specified locations based on configurations stored in txt files with the help of an UI interface.
+
+.DESCRIPTION
+    This script provides a UI interface for configuring the extensions and paths of the files to be moved from the Desktop. The "Save" button saves the configuration in txt files to be used later, while the "Run" button executes the "Run Clean Desktop.ps1" script, which moves the files according to the saved configurations. 
+
+.EXAMPLE
+    Run the script:
+    - By double-clicking on "Start_Clean Desktop.bat".
+    - By right-clicking on "Configuration.ps1" and selecting "Run with PowerShell".
+#>
+
+<#
 -> Reading the User Interface
 #>
 Add-Type -AssemblyName PresentationFramework
