@@ -9,6 +9,10 @@
     Run the script:
     - By double-clicking on "Start_Clean Desktop.bat".
     - By right-clicking on "Configuration.ps1" and selecting "Run with PowerShell".
+    
+.NOTES
+    Author: Camelia Bobaru
+    Date: 19.02.2023
 #>
 
 <#
