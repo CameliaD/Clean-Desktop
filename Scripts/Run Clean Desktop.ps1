@@ -1,4 +1,22 @@
 <#
+.SYNOPSIS
+    Moves files from the Desktop to specified locations based on configurations stored in txt files.
+
+.DESCRIPTION
+    This script reads configurations from txt files created using the Configuration.ps1 script, then moves files from the Desktop to specified locations based on the information stored. 
+
+.EXAMPLE
+    Run the script:
+    - By clicking the "Run" button in the UI interface.
+    - By right-clicking on "Run Clean Desktop.ps1" and selecting "Run with PowerShell". The extensions and paths must have been set up at least once with the UI for this to work.
+    - With Windows Scheduler. The extensions and paths must have been set up at least once with the UI for this to work.
+
+.NOTES
+    This script requires the Configuration.ps1 script to be run at least once to set up the necessary configurations.
+#>
+
+
+<#
 -> Finding the location of input files AllowedExtensionsOnDesktop.txt, DestinationPathOfFiles.txt on this PC
 -> Reading the content of input files AllowedExtensionsOnDesktop.txt, DestinationPathOfFiles.txt
 #>
