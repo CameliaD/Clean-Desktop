@@ -12,7 +12,8 @@
     - With Windows Scheduler. The extensions and paths must have been set up at least once with the UI for this to work.
 
 .NOTES
-    This script requires the Configuration.ps1 script to be run at least once to set up the necessary configurations.
+    Author: Camelia Bobaru
+    Date: 19.02.2023
 #>
 
 
